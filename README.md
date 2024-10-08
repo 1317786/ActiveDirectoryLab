@@ -51,13 +51,16 @@ Powershell script that will create 1k+ users in Active Directory:  <br/>
 <img src="Powershell Script to Add Users.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create second VM and install Windows 10 on it which will connect to the private virtual box network. Will then be named CLIENT1 and we will log into it with one of the domain accounts:  <br/>
-<img src="CLIENT1 VM creation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="CLIENT1 VM creation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create second VM and install Windows 10 on it which will connect to the private virtual box network. Will then be named CLIENT1 and will be used to log into it with one of the domain accounts:  <br/>
 <img src="CLIENT1 VM creation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 <br />
+Configure NAT and Routing so clients on the private network can reach the internet through the Domain Controller:  <br/>
+<img src="NAT and routing.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 Configure NAT and Routing so clients on the private network can reach the internet through the Domain Controller:  <br/>
 <img src="NAT and routing.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
