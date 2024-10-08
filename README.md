@@ -35,7 +35,7 @@ Configure 2 network adapters with one being used to connect to the outside inter
 <br />
 <br />
 Install Active Directory and create Domain name: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="AD installation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
