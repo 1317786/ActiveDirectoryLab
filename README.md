@@ -17,11 +17,11 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Takeaways</h2>
 
-- <b>ELASTIC STACK SIEM CONFIGURATION AND MANAGEMENT</b>: SUCCESSFULLY SET UP AND CONFIGURED ELASTIC STACK SIEM IN A HOME LAB ENVIRONMENT. DEMONSTRATED PROFICIENCY IN DEPLOYING A KALI LINUX VM, CONFIGURING ELASTIC AGENTS FOR LOG COLLECTION, AND FORWARDING DATA TO THE SIEM FOR EFFECTIVE SECURITY EVENT MONITORING.
+- <b>Active Directory Setup and Configuration</b>: Successfully established a home lab environment featuring Active Directory on Windows Server 2019. Demonstrated competency in setting up a virtual network using Oracle VirtualBox, installing and configuring a domain controller, and setting up necessary network interfaces for internal and external communications. This hands-on experience solidified foundational skills in managing Active Directory roles and features.
 
-- <b>SECURITY EVENT SIMULATION AND ANALYSIS</b>: ACQUIRED HANDS-ON EXPERIENCE IN GENERATING AND ANALYZING SECURITY EVENTS USING NMAP ON KALI LINUX. PROFICIENT IN QUERYING ELASTIC SIEM TO IDENTIFY AND INVESTIGATE SECURITY INCIDENTS, ENHANCING SKILLS IN NETWORK SECURITY MONITORING AND THREAT DETECTION.
+- <b>Domain and Network Services Implementation</b>: Gained practical experience in configuring DNS and DHCP services essential for network management within the Active Directory framework. Proficient in creating and managing Active Directory objects such as users, groups, and organizational units, enhancing skills in network resource administration and user management.
 
-- <b>VISUALIZATION AND ALERTING IN SIEM</b>: DEVELOPED A CUSTOM DASHBOARD IN ELASTIC SIEM TO VISUALIZE SECURITY EVENIS, DEMONSTRATING SKILLS IN DATA INTERPRETATION AND PATTERN RECOGNITION. SUCCESSFULLY CREATED AND TESTED ALERT RULES FOR DETECTING SPECIFIC SECURITY EVENTS, SHOWING COMPETENCY IN PROACTIVE INCIDENT RESPONSE AND ALERT MANAGEMENT.
+- <b>Security Policy and Access Management:</b>: Developed a thorough understanding of group policies and user access management within Active Directory. Implemented security policies that enforce user authentication and authorization practices, improving the security posture of the network. This project showcased the ability to manage and secure network resources effectively through Active Directory.
 
 <h2>Program walk-through:</h2>
 
