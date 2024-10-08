@@ -56,8 +56,8 @@ Create second VM and install Windows 10 on it which will connect to the private 
 
 <br />
 <br />
-Configure NAT and Routing so clients on the private network can reach the internet through the Domain Controller:  <br/>
-<img src="NAT and routing.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verification of DHCP and DNS server connectivity on Windows 10 host:  <br/>
+<img src="DHCP and DNS server verifcation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
