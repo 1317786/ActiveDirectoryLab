@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will help develop an understanding of how active directory and windows networking works. <br />
+This project is designed to deepen understanding of Windows Server 2019 by configuring and managing a domain controller within a virtualized network. We will explore essential network services such as DNS and DHCP, and learn how to manage user and group policies effectively. This hands-on experience will not only enhance practical skills in network administration but also provide insights into the critical role of Active Directory in maintaining organizational security and efficiency. <br />
 
 
 <h2>Languages and Utilities Used</h2>
