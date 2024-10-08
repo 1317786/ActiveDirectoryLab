@@ -36,6 +36,7 @@ Configure 2 network adapters with one being used to connect to the outside inter
 <br />
 Install Active Directory and create Domain name: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure NAT and Routing so clients on the private network can reach the internet through the Domain Controller:  <br/>
