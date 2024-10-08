@@ -54,6 +54,9 @@ Create second VM and install Windows 10 on it which will connect to the private 
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+Powershell script that will create 1k+ users in Active Directory:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <!--
  ```diff
 - text in red
