@@ -44,7 +44,7 @@ Configure NAT and Routing so clients on the private network can reach the intern
 <br />
 <br />
 Configure DHCP on Domain Controller so when Windows 10 machine is created it can automatically get an IP address:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="DHCP.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Powershell script that will create 1k+ users in Active Directory:  <br/>
