@@ -47,7 +47,7 @@ Configure DHCP on Domain Controller so when Windows 10 machine is created it can
 <br />
 <br />
 Powershell script that will create 1k+ users in Active Directory:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Powershell Script to Add Users.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create second VM and install Windows 10 on it which will connect to the private virtual box network. Will then be named CLIENT1 and we will log into it with one of the domain accounts:  <br/>
