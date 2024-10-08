@@ -55,6 +55,12 @@ Create second VM and install Windows 10 on it which will connect to the private 
 <img src="CLIENT1 VM creation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="CLIENT1 VM creation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="CLIENT1 VM creation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Create the first VM which will also act as our Domain Controller and house Active Directory: <br/>
+<img src="Domain Controller VM.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
 </p>
 
 
