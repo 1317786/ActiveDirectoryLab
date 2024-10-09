@@ -68,10 +68,7 @@ Verification of domain connectivity on Windows 10 host:  <br/>
 <br />
 <br />
 
-CLIENT1 cpu successfully added and registered to domain:  <br/>
-<img src="CLIENT1 cpu added to domain.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 
 
