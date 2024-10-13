@@ -57,14 +57,14 @@ Create second VM and install Windows 10 on it which will connect to the private 
 <br />
 <br />
 Verification of DHCP and DNS server connectivity on Windows 10 host:  <br/>
-<img src="DHCP and DNS server verifcation.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <br />
 <br />
 Verification of domain connectivity on Windows 10 host:  <br/>
-<img src="mydomain.com verification on client.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
