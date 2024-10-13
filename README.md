@@ -68,6 +68,14 @@ Verification of domain connectivity on Windows 10 host:  <br/>
 <br />
 <br />
 
+<br />
+<br />
+Verification of domain connectivity on Windows 10 host:  <br/>
+<img src="mydomain.com verification on client.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 
 
 
