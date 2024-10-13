@@ -70,8 +70,8 @@ Verification of domain connectivity on Windows 10 host:  <br/>
 
 <br />
 <br />
-Verification of domain connectivity on Windows 10 host:  <br/>
-<img src="mydomain.com verification on client.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+CLIENT1 computer successfuly being registered as a device within the Active Directory:  <br/>
+<img src="CLIENT1 comptuer added to domain.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
