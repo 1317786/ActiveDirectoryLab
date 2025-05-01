@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Active Directory Home Lab: Setting Up a Windows Server 2019 Domain with DNS, DHCP, and Group Policies</h1>
 
 
 <h2>Description</h2>
