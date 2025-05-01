@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is designed to deepen understanding of Windows Server 2019 by configuring and managing a domain controller within a virtualized network. We will explore essential network services such as DNS and DHCP, and learn how to manage user and group policies effectively. This hands-on experience will not only enhance practical skills in network administration but also provide insights into the critical role of Active Directory in maintaining organizational security and efficiency. <br />
+This project deploys a Windows Server 2019 Active Directory lab inside a virtualized network and documents every major step: installing the OS, promoting the host to a domain controller, configuring DNS and DHCP, joining Windows 10 clients to the new forest, defining organisational units and baseline Group Policies, and bulk-creating test users with a PowerShell script. The completed environment illustrates core domain-level administration, network-service configuration, and security-centric management practices required for reliable enterprise operations. <br />
 
 
 <h2>Languages and Utilities Used</h2>
